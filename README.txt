@@ -1,0 +1,1 @@
+Hi! This is my very first project. It contains a simple game made with python3.11, where u should guess a number from 1 to 5. Try it out!
